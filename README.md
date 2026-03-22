@@ -130,6 +130,4 @@ quaternions-double-cover/
 
 ---
 
-## Licence
 
-MIT — do whatever you like with it.
